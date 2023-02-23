@@ -1,0 +1,10 @@
+node_modules
+results
+reports
+screenshots
+mochawesome-report
+videos
+package-lock.json
+mochawesome.json
+reporter-config.json
+cucumber-messages.ndjson
